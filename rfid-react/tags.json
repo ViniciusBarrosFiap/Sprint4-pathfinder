@@ -1,5 +1,5 @@
 {
     "tags": [
-        {"id": "9360b90e", "nome": "Fábio Cabrini", "idade": 40, "creditos": 0}
+        {"id": "9360b90e", "nome": "Fábio Cabrini","username":"fabiocabrini", "imagem":"http://github.com/fabiocabrini.png","creditos": 15}
     ]
 }
