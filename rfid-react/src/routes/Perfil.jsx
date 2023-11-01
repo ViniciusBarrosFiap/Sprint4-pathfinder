@@ -20,13 +20,13 @@ function Perfil() {
     }
     const recuperaCadastro = useCallback(() => {
         axios.get(`http://localhost:3000/tags/${uid}`)
-          .then((resposta) => {
-            setUsuario(resposta.data);
-          })
-          .catch((erro) => {
-            console.log(erro);
-          });
-      }, [uid]);
+            .then((resposta) => {
+                setUsuario(resposta.data);
+            })
+            .catch((erro) => {
+                console.log(erro);
+            });
+    }, [uid]);
 
     useEffect(() => {
         recuperaUid()
@@ -40,12 +40,17 @@ function Perfil() {
     }, [uid, recuperaCadastro]);
 
     return (
-        <div>
-            <img src={usuario.imagem} alt="" />
-            <h1>{usuario.nome}</h1>
-            <h2>@{usuario.username}</h2>
-            <h3>Créditos: {usuario.creditos}</h3>
-        </div>
+        
+        <section style={{height:"100vh", backgroundColor:"#0E4B4F", }}>
+            <div className="container d-flex justify-content-center align-items-center" style={{height:"100vh"}}>
+                <div className="d-flex flex-column align-items-center text-center mb-5" >
+                    <img src={usuario.imagem} alt="" className="rounded-circle" style={{width:"200px"}} />
+                    <h1 className="mt-3 text-white">{usuario.nome}</h1>
+                    <h2 className="text-white">@{usuario.username}</h2>
+                    <h3 className="text-white">Créditos: {usuario.creditos}</h3>
+                </div>
+            </div>
+        </section>
     )
 }
 export default Perfil

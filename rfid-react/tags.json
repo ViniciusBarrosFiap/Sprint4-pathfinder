@@ -1,5 +1,32 @@
 {
-    "tags": [
-        {"id": "9360b90e", "nome": "Fábio Cabrini","username":"fabiocabrini", "imagem":"http://github.com/fabiocabrini.png","creditos": 15}
-    ]
+  "tags": [
+    {
+      "id": "a3fed1a0",
+      "nome": "ViniciusBarros",
+      "username": "vini",
+      "imagem": "http://github.com/viniciusbarrosfiap.png",
+      "creditos": 5
+    },
+    {
+      "id": "08081837",
+      "nome": "Lucas Speranzini",
+      "username": "LucasSperanzini",
+      "imagem": "http://github.com/lucassperanzini.png",
+      "creditos": 5
+    },
+    {
+      "id": "08cd6cae",
+      "nome": "Pedro Barros",
+      "username": "PB369",
+      "imagem": "http://github.com/PB369.png",
+      "creditos": 5
+    },
+    {
+      "id": "9360b90e",
+      "nome": "Fabio Cabrini",
+      "username": "FabioCabrini",
+      "imagem": "http://github.com/fabiocabrini.png",
+      "creditos": 5
+    }
+  ]
 }
