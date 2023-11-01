@@ -29,9 +29,7 @@ function Cadastro() {
         "id": uid,
         "nome": nome,
         "username": username,
-        "imagem": `http://github.com/${userGit}.png`,
-        "creditos": 5
-
+        "imagem": `http://github.com/${userGit}.png`
     }
     const cadastraTag = (informacoes)=>{
         axios.post("http://localhost:3000/tags", informacoes)
