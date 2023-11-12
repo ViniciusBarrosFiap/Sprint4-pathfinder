@@ -3,7 +3,7 @@
   
   <h1>Path Finder</h1>
 
-  <p>Uma plataforma digital dedicada a otimizar o planejamento de rotas turísticas em várias cidades do Brasil, começando a partir de São Paulo.</p>
+  <p>Uma plataforma digital dedicada a criar o planejamento de rotas turísticas em várias cidades do Brasil, começando a partir de São Paulo.</p>
 
   <h2>Funcionalidades Principais</h2>
   <ul>
