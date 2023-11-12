@@ -46,6 +46,5 @@
   ![image](https://github.com/ViniciusBarrosFiap/esp32-rfid/assets/126582852/11faa839-444f-4d69-82b2-020278ab81ad)
   ![image](https://github.com/ViniciusBarrosFiap/esp32-rfid/assets/126582852/1e871491-59bd-4433-a566-044f769ae3d6)
   <h1>Protótipo</h1>
-![WhatsApp Image 2023-11-01 at 13 51 42](https://github.com/ViniciusBarrosFiap/esp32-rfid/assets/126582852/980054ef-8d42-4563-9243-6e590f778297)
-
+  <img src=""/>
 
