@@ -43,8 +43,6 @@
   </ul>
 
   <p>Aproveite sua viagem com o aplicativo de Rotas Turísticas em São Paulo!</p>
-  ![image](https://github.com/ViniciusBarrosFiap/esp32-rfid/assets/126582852/11faa839-444f-4d69-82b2-020278ab81ad)
-  ![image](https://github.com/ViniciusBarrosFiap/esp32-rfid/assets/126582852/1e871491-59bd-4433-a566-044f769ae3d6)
   <h1>Protótipo</h1>
   <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/esp32-rfid/main/img/WhatsApp%20Image%202023-11-01%20at%2013.51.42.jpeg"/>
 
